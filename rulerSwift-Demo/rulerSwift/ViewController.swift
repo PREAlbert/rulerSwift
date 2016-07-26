@@ -33,8 +33,6 @@ class ViewController: UIViewController, FSRulerDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //self.view.backgroundColor = UIColor.red()
-       // var ruler: rulerView = rulerView.frame(CGRect.init(x: 20, y: 220, width: UIScreen.main().bounds.size.width - 40, 140))
         let ruler: rulerView = rulerView.init(frame: CGRect.init(x: 20, y: 220, width: UIScreen.main().bounds.size.width - 40, height: 140))
         ruler.delegete = self
         ruler.showRulerScrollViewWithCount(200, average: 1, currentValue: 0, smallMode: true)
