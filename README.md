@@ -3,7 +3,7 @@
 
 [![Platform](https://img.shields.io/cocoapods/p/DOFavoriteButton.svg?style=flat)]
 [![License](https://img.shields.io/cocoapods/l/DOFavoriteButton.svg?style=flat)]
-![Demo](http://7xkpdz.com1.z0.glb.clouddn.com/ruler.gif)
+![Demo](http://7xrr0e.com1.z0.glb.clouddn.com/ruler2.gif)
 
 
 ## Requirements
